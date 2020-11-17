@@ -18,4 +18,9 @@ public class ContratosImpl implements Contratos {
         return news;
     }
 
+    @Override
+    public void saveNews(News news) {
+
+    }
+
 }
