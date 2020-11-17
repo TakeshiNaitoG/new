@@ -1,0 +1,31 @@
+#ideal file
+*.iml
+.gradle
+#local
+/local.properties
+#idea stuff
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/misc.xml
+/.idea/codeStyles/
+/.idea/runCongiguration.xml
+/.idea/vcs.xml
+/.idea/gradle.xml
+/.idea/.name
+/.idea/kotlinCodeInsightSetting.xml
+/.idea/.gitignore
+/.idea/render.experimental.xml
+/.idea/jarRepositories.xml
+/.idea/compiler.xml
+
+#trashy
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
