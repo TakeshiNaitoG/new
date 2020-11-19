@@ -39,10 +39,11 @@ public class TestContratosImplFaker {
         log.debug("Done. ");
     }
 
-    testSaveNews()
+    public void testSaveNews()
     {
 
     }
+    
 
 
 }
