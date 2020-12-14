@@ -12,7 +12,7 @@ public final class News {
     private String description;
     private String content;
     private ZonedDateTime publishiedAt;
-    //TODO delete dis
+    //TODO delete didasda
 
 
 
